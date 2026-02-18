@@ -32,6 +32,7 @@ Exemples d’identifiants :
 * `inputLocalisation`
 * `inputVille`
 * `actionEnvoyer`
+* 
 ![](/activityMain.png)
 ---
 
@@ -48,6 +49,9 @@ Identifiants utilisés :
 * `lblHeader`
 * `txtResume`
 * `btnBackHome`
+
+![](/activityScreen2.png)
+
 
 ---
 
@@ -82,6 +86,9 @@ Les données sont transmises via des clés personnalisées :
 * `x_adresse`
 * `x_ville`
 
+
+![](/MainActivity.png.png)
+
 ---
 
 ## Étape 4 — Implémentation de Screen2Activity
@@ -110,6 +117,9 @@ finish();
 
 ce qui ferme l’écran courant et revient au précédent.
 
+
+![](/ScreenActivity2.png.png)
+
 ---
 
 ## Étape 5 — Configuration du AndroidManifest
@@ -120,6 +130,9 @@ Les deux activités sont déclarées :
 * `Screen2Activity`
 
 L’attribut `android:exported` est configuré correctement pour Android récent.
+
+
+![](/Mnfst.png.png)
 
 ---
 

@@ -87,7 +87,7 @@ Les données sont transmises via des clés personnalisées :
 * `x_ville`
 
 
-![](/MainActivity.png.png)
+![](/MainActivity.png)
 
 ---
 

@@ -32,7 +32,7 @@ Exemples d’identifiants :
 * `inputLocalisation`
 * `inputVille`
 * `actionEnvoyer`
-
+![](/activityMain.png)
 ---
 
 ## Étape 2 — Écran de récapitulatif (activity_screen2.xml)

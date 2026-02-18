@@ -118,7 +118,7 @@ finish();
 ce qui ferme l’écran courant et revient au précédent.
 
 
-![](/ScreenActivity2.png.png)
+![](/ScreenActivity2.png)
 
 ---
 
@@ -132,7 +132,7 @@ Les deux activités sont déclarées :
 L’attribut `android:exported` est configuré correctement pour Android récent.
 
 
-![](/Mnfst.png.png)
+![](/Mnfst.png)
 
 ---
 
